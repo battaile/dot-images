@@ -4,4 +4,4 @@
 refresh page for new random image, takes a second to load
 
 
-[sample](https://i.imgur.com/9bODscf.png)
+![sample](https://i.imgur.com/9bODscf.png)
